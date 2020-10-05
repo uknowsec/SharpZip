@@ -1,0 +1,7 @@
+D:\vscode\c_test\SharpZip\SharpZip\bin\Debug\SharpZip.exe.config
+D:\vscode\c_test\SharpZip\SharpZip\bin\Debug\SharpZip.exe
+D:\vscode\c_test\SharpZip\SharpZip\bin\Debug\SharpZip.pdb
+D:\vscode\c_test\SharpZip\SharpZip\obj\Debug\SharpZip.csprojAssemblyReference.cache
+D:\vscode\c_test\SharpZip\SharpZip\obj\Debug\SharpZip.csproj.CoreCompileInputs.cache
+D:\vscode\c_test\SharpZip\SharpZip\obj\Debug\SharpZip.exe
+D:\vscode\c_test\SharpZip\SharpZip\obj\Debug\SharpZip.pdb
